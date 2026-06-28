@@ -33,6 +33,11 @@ ___
 
 Dataset Used: Resume Dataset from Kaggle
 
+The dataset is too large to upload to GitHub directly.
+
+Dataset Link : 
+
+
 ___
 
 📊 Workflow
@@ -48,10 +53,12 @@ ___
 
 📈 Output
 
-- Ranked list of candidates
-- Candidate matching scores
-- Missing skills report
-- Candidate ranking graph
+Graph
+![Graph](Graph.jpg)
+
+Ranked Candidates 
+
+![Ranked Candidates](Ranked_candidates.jpg)
 
 ___
 
