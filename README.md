@@ -35,7 +35,7 @@ Dataset Used: Resume Dataset from Kaggle
 
 The dataset is too large to upload to GitHub directly.
 
-Dataset Link : 
+Dataset Link : https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 
 
 ___
